@@ -1,1 +1,1 @@
-# Adpptly
+# Adoptly
